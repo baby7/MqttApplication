@@ -1,0 +1,17 @@
+<div class="container">
+    <div>
+        <text class="title" onclick="mqttMessage">
+            开始mqtt
+        </text>
+    </div>
+    <div>
+        <text class="title" onclick="stopMqtt">
+            停止mqtt
+        </text>
+    </div>
+    <div>
+        <text class="title">
+            {{ title }}
+        </text>
+    </div>
+</div>
