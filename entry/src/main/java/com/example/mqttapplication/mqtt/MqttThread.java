@@ -11,7 +11,7 @@ import java.util.List;
 public class MqttThread implements Runnable {
 
     /**地址*/
-    public static final String MQTT_BROKER_HOST = "tcp://47.98.117.2:1883";
+    public static final String MQTT_BROKER_HOST = "tcp://xxx.xxx.xxx.xxx:1883";
     /**客户端唯一标识*/
     public static final String MQTT_CLIENT_ID = "client";
     /**订阅标识*/
